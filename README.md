@@ -6,7 +6,8 @@ After a brief exploratory analysis, where all covariates are examined, the analy
 - Random Forest
 - XGBoost
 
-
+This code was developed as part of my dissertation for my Master's degree, titled:
+'Machine Learning Techniques for Anti-Money Laundering: From Theory to Practical Implementation.'
 
 ## Dataset
 This project uses the SAML-Dataset, which can be found and downloaded on Kaggle at the following link:
